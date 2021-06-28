@@ -1,0 +1,687 @@
+
+@media (max-width:1800px) {
+.bxslider li a { height:600px; background-position:center; background-attachment:scroll; background-size:cover;}
+.bxslider .cons {padding:30px 0;font-size:12px; line-height:17px;}
+
+#indnum ul li .content {font-size:14px;}
+#indnum ul li {margin-right:5%;}
+.indcasemenu .cons {font-size:22px; line-height:42px;}
+}
+
+@media (max-width:1441px) {
+.bxslider li a { height:500px;}
+.topheight { height:68px}
+.inda1 {font-size:25px;margin-top:50px}
+.inda2 {font-size:30px;margin:30px 0 10px 0}
+.inda3 {font-size:15px}
+.inda4 {font-size:20px;margin:70px 0 10px 0}
+.inda5 {font-size:25px}
+.inda6 {margin-top:30px}
+.inda6 a {font-size:15px;}
+.inaaline {margin:40px 0}
+.newproject {margin-top:40px}
+.inda7 {font-size:23px;}
+.inda8 {font-size:25px;margin:60px 0 -20px 0}
+
+.newproject li div.clist h1,.pane .li div.clist h1 {font-size:26px;margin-top:20%}
+.newproject li.a5 div.clist h1,.pane .li.a5 div.clist h1 {margin-top:26%}
+.newproject li div.clist i,.pane .li div.clist i { bottom:30px;}
+
+.indcasesubject {padding:60px 0;}
+.indcasecate {margin-bottom:-15px}
+.indcasemore a {font-size:16px;} 
+
+.indcustomer {height:332px;}
+.indcustomer .mleft .a1 {font-size:20px;}
+.indcustomer .mleft .a2 {font-size:30px}
+.indcustomer .mleft .line {width:60px}
+.indcustomer .mleft .a3 {font-size:15px; line-height:25px}
+.indcustomer .mright {background:url() no-repeat 78% bottom fixed; background-size:432px auto;}
+
+.indadv dt {font-size:20px;}
+
+.indmessage{padding:10px 0 10px 0}
+.indmessage .mleft .cons .title,.indmessage .mright2 .title {font-size:20px;}
+.indmessage .mleft .cons .more a,.indmessage .mright2 #indbutton {font-size:16px; height:25px; line-height:35px;width:160px;}
+.indmessage .mright2 .tel i { background-size:100%;width:25px; height:25px;}
+.indmessage .mright2 .tel {margin-top:20px;font-size:20px; line-height:25px; height:25px;}
+
+.profile_title {font-size:25px; padding:40px 0}
+.profile_cons {font-size:15px;}
+.profile_num li span.counter {font-size:50px;}
+.profile_num li font.jia {font-size:30px;}
+.profile_num li .cons {font-size:16px;}
+.pd50 {padding:40px 0; line-height:28px}
+
+.brandconcept_pic .title {font-size:35px;}
+.brandconcept_pic .line { width:100px;margin:20px auto 30px auto;}
+.brandconcept_pic .cons {font-size:30px; line-height:40px}
+.brandconcept_pic .cons img {max-width:100%; height:auto;margin:0 10%;width:80%}
+.team_about {padding-top:40px}
+.team_about ul {margin-top:20px}
+.team_line {width:100px;margin:20px  auto}
+.viewpoint {padding:50px 0;}
+.viewpoint li .title {font-size:25px;}
+
+.list2 .container,.list .container{padding-top:60px;padding-bottom:20px}
+.list2 .left .redTitle,.list .left .redTitle{line-height:25px;font-size:16px;}
+.list2 .left .title,.list .left .title{line-height:40px;font-size:30px;}
+.list2 .left .tel400 div.font,.list .left .tel400 div.font {font-size:28px;}
+.list2 .right .title,.list .right .title{font-size:28px;}
+
+.bannerin {background-position:left 52px;margin-top:-15px}
+.bannerin .cons {font-size:30px}
+.bannerin .title {font-size:25px;padding:5px 20px 8px 20px;margin-top:20px}
+.newscurrent {margin:-30px 0 35px 0}
+.prevnextnews a,.prevnextnews span {height:35px; line-height:35px}
+
+
+
+.newstitle {font-size:25px;margin-top:40px}
+.newsaddtime {margin-bottom:2px;}
+
+.adv_pic {margin:60px 0}
+.adv_cus .subject {font-size:25px;}
+.adv_cus .subject span {font-size:50px;}
+.adv_cus .subject font {font-size:40px;}
+.adv_cus ul {margin:40px 0}
+.adv_cus .more a {font-size:16px;}
+
+.casetitle {font-size:17px;margin-bottom:20px}
+.caseinaaline {margin-top:0px}
+.caserela {margin-bottom:60px}
+.inaaline2 {margin-top:-90px}
+
+.indabout .mright .c {margin:35px 0 10px 0}
+.indabout .mleft .title {font-size:60px; line-height:90px;letter-spacing:3px;}
+#indnum ul li {margin-right:0;width:50%;margin:20px 0 0 0; text-align:left}
+}
+@media (max-width:1400px) {
+.wrap3 {padding:0 3%}
+}
+
+@media (max-width:1210px) {
+<!---------原1100px----------->
+.fixleft { width:30px; height:53px; background-size:100%;bottom:50px}
+.fixleft h1{ background-size:100%}
+.fixleft h2{background-size:100%}
+.footbottom .wrap {padding:0 3%}
+.footbottom,.footbottom .f1,.footbottom .f2,.footbottom .f3 { height:50px;} 
+
+.bannerin_out {background-size:cover; height:350px}
+.zzsc{ background-size:cover;height:350px;}
+.zzsc .link{height:350px;}
+.particulars-nav-fixed.active2 .header {top:350px}
+.outs_pic {background-size:cover; height:550px}
+
+.outs_subject .title {font-size:14px;line-height:22px;}
+.outs_subject .line { width:40px; height:2px;margin:10px auto;}
+.outs_subject .cons {font-size:12px; line-height:20px;}
+.outs_bao {padding:20px 0}
+.outs_solution {padding:20px 0;}
+.outs_cons {margin-top:20px;font-size:12px; line-height:20px}
+.outs_customer {padding:30px 0 1px 0;}
+.outs_step {padding:20px 0}
+.outs_adv {margin-top:30px}
+.outs_adv ul {margin:30px 0}
+.outs_adv li {width:32%}
+.outs_adv li.f2 {margin:0 2%}
+.outs_adv li .pic {width:80px; height:80px;}
+.outs_adv li .pic img {width:50px}
+.outs_adv li .cons {font-size:12px; line-height:20px;margin:10px 0 0px 0}
+.outs_adv li .title {font-size:14px; line-height:22px;}
+
+.outs_contact .mleft h2 { font-size:14px;}
+.outs_contact .mright {width:270px;font-size:14px;margin-top:25px}
+.outs_contact .mright .cons {font-size:13px}
+.outs_contact .mright .cons .tel { font-size:25px; margin-top:-6px}
+.outs_contact .mright .title {margin-top:4px;padding-top:10px}
+
+.outs_bao .profile_num {margin:20px 0 0 0}
+.outs_bao ul.list4 {margin-top:20px}
+.outs_bao ul.list4 li .cons { line-height:20px; height:40px;font-size:12px}
+.outs_bao ul.list4 li .line { height:1px}
+.outs_bao ul.list4 li .pic p { height:60px;width:60px; background-size:cover;}
+.fixleft,.footbottom { display:none;}
+.fixed{display:none !important;}
+.fixmob { display:block;position:fixed; z-index:9999;right:8px;bottom:120px;width:50px;}
+.fixmob a {margin-top:10px; display:block;border-radius:10px;width:50px; height:50px; background-size:100%;}
+.fixmob a.qq {background:url(../images/r2.gif) no-repeat;width:50px; height:50px;background-size:100%; }
+.fixmob a.tel {background:url(../images/r1.gif) no-repeat;width:50px; height:50px;background-size:100%; }
+.fixmob a:hover { background-position:bottom}
+<!---------原1025px----------->
+.topheight { height:74px}
+.wrap {width:auto;padding:0 3%}
+.newproject {padding:0 3%}
+.newproject li,#case .li,.pane .li {width:50%;}
+.newproject li {width:33.3333%}
+.pane .li,.pane .li.l5 {width:33.3333%;}
+.newproject li.a5,#case .li.a5,.pane .li.a5 {width:100%}
+.newproject li h4,#case .li h4,.pane .li h4 { font-size:13px}
+.pane .li div.clist h1 {font-size:16px;margin-top:20px}
+.pane .li div.clist h2 {font-size:14px;margin-top:5px}
+
+.indcustomer {height:302px;}
+.indcustomer .mleft .a1 {font-size:18px;}
+.indcustomer .mleft .a2 {font-size:25px}
+.indcustomer .mleft .line {width:60px}
+.indcustomer .mleft .a3 {font-size:14px}
+.indcustomer .mright {background:url() no-repeat 96% bottom fixed; background-size:332px auto;}
+
+.indadv dt {font-size:20px;}
+
+.indmessage .mright2 {padding-top:5px}
+.indmessage .mleft .cons {float:left;margin-left:30px;width:78%}
+.indmessage .mleft .cons .title,.indmessage .mright2 .title {font-size:20px;}
+.indmessage .mleft .cons .title2 {font-size:14px;padding:15px 0}
+.indmessage .mleft .cons .cons {font-size:13px; line-height:25px}
+.indmessage .mleft .cons .more {margin-top:25px}
+.indmessage .mleft .cons .more a,.indmessage .mright2 #indbutton {font-size:14px; height:30px; line-height:30px;width:120px;}
+.indmessage .mright2 .title span {font-size:13px;} 
+.indmessage .mright2 input[type="text"] {height:35px; line-height:35px;padding:0 2%;margin:15px 0;margin-right:1%;font-size:13px;}
+.indmessage .mright2 textarea {font-size:13px;}
+.indmessage .mright2 .tel {margin-right:10px}
+
+.indmessage .mleft .t {font-size:20px; line-height:30px}
+
+.bannerin {background-position:left 45px;font-size:25px;padding:0;width:96%;margin-top:-20px;  background:none; height:0;overflow:hidden;display:block}
+.bannerin .cons {font-size:25px; display:none;}
+.bannerin .title {font-size:20px;display:none;}
+.pd50 {padding:30px 0; line-height:25px}
+
+.brandconcept_pic {padding:5% 0; background-size:0; background-color:#333}
+.brandconcept_pic .title {font-size:16px;}
+.brandconcept_pic .cons {font-size:16px; line-height:25px}
+.brandconcept_pic .line {width:80px;margin:20px auto 30px auto;}
+.brandconcept_pic .cons {font-size:25px; line-height:35px}
+.brandconcept_pic .cons img {max-width:100%; height:auto;margin:0 10%;width:80%}
+
+.team_about {padding-top:30px}
+.team_about ul {margin-top:20px}
+.team_about li .lists h1 {font-size:16px;}
+.team_line {width:70px;margin:15px  auto}
+.viewpoint li {width:20.8%; min-height:150px}
+.viewpoint li .title {font-size:20px;}
+.viewpoint li .cons {font-size:13px;line-height:18px;margin-top:15px;}
+
+.list2 .left,.list2 .right{width:100%;float:none;}
+.list2 .container{width:100%;padding-top:40px;padding-bottom:0px}
+.list2 .left .redTitle,.list .left .redTitle{font-size:16px;}
+.list2 .left .title,.list .left .title{line-height:30px;font-size:20px;}
+.list2 .left .info{font-size:15px;line-height:28px;}
+.list2 .left .tel400 {font-size:15px;margin-top:30px;}
+.list2 .right .title{font-size:20px;margin-top:40px}
+.list2 .right .title2 {font-size:15px; line-height:25px;}
+.list2 .right .line .inputText{padding:0 2%;width:96%;height:35px;line-height:35px;}
+.list2 .right .line .textArea{padding:10px 2%;width:96%;}
+.list2 .right .line .inputBtn{width:100%;height:40px;font-size:16px;}
+.list2 .right .line .inputBtn{transition-duration: .5s;-ms-transition-duration: .5s;-moz-transition-duration: .5s; -webkit-transition-duration: .5s; }
+.list2 .right .line .inputBtn:hover{background:#e50012;color:#fff;}
+
+.newscate {padding:50px 0 0 0;margin-bottom:-20px}
+.newscate li { width:auto; height:40px;}
+.newscate li a { height:30px; line-height:30px;font-size:16px;padding:0 20px}
+
+.newscurrent {margin:-30px 0 35px 0}
+.prevnextnews a,.prevnextnews span {height:35px; line-height:35px}
+
+.newstitle {font-size:20px;margin-top:0px}
+.newsaddtime {font-size:13px; margin-bottom:2px}
+.newscons {font-size:13px;margin-top:-10px}
+.newsprevnext {padding:0px 0 10px 0;margin-top:0; line-height:18px;font-size:13px}
+
+.mar-30 {margin-top:-60px}
+.adv_pic {margin:40px 0}
+.adv_pic li {width:32%;margin-right:2%;}
+.adv_pic li .title {font-size:16px;}
+.adv_pic li .cons {font-size:13px; line-height:24px;}
+.adv_pic li .title2 {font-size:12px;padding:5px 2%;width:96%}
+.adv_cus .subject span {font-size:35px;}
+.adv_cus .subject font {font-size:25px;}
+.adv_cus .subject {font-size:20px;}
+.adv_cus ul {margin:30px 0}
+.adv_cus ul li {width:15.5333%;margin:0 1% 1% 0; height:auto;padding-top:0px;}
+.adv_cus ul li p {height:auto;padding:5px 0 0 0;width:100%}
+.adv_cus .more {padding-bottom:30px}
+
+.indcasecate li,.tabPanel ul li {margin:0 20px}
+.indcasecate li a,.tabPanel ul li {font-size:15px;}
+
+.mainNav{padding:50px 0}
+.mainNav .child{font-size:15px}
+.casemore a {margin:50px auto;}
+
+.casetitle {font-size:16px;margin-bottom:20px}
+.caseinaaline {margin-top:0px}
+.caserela {margin-bottom:50px}
+.newsaddtime .hy {margin-left:20px}
+
+.inda7_2 {font-size:16px;padding:0 0 20px 0}
+.inda7_2 h1 {font-size:20px;}
+.wrapservice {padding:0;width:100%}
+
+.profile_num {padding:0px 0 0px 0}
+.profile_num li span.counter {font-size:25px;}
+.profile_num li font.jia {font-size:14px;}
+.profile_num li .cons {font-size:12px; line-height:20px; height:40px}
+.profile_num li {padding:0;margin:0;width:25%;}
+
+
+.inda3_2 {margin-bottom:20px}
+.inda7_3 {margin:-70px 0 -30px 0; line-height:30px;}
+.panes{padding-bottom:20px}
+
+.inda7_t {padding:30px 0 70px 0}
+
+.indteamlist .wrap {width:100%;padding:0}
+.indteamlist .owl-pagination {top:-27px;left:0px;height:25px;  line-height:25px;}
+.indteamlist .owl-page{padding:0 5%;height:25px;font-size:12px}
+
+.brandconcept_pic { background-size:cover;}
+.indad3 {margin:-60px 0 -40px 0}
+.indcasecate.actives {height:58px;padding-top:7px; line-height:25px;}
+
+.casesum {margin:30px 0}
+.cstitle {font-size:22px; line-height:32px;margin:30px 0 0 0}
+.cscons {font-size:18px; line-height:28px;margin:5px 0 30px 0}
+.foot {padding:30px 0 60px 0}
+.foot .a1 {font-size:20px; line-height:35px;}
+.foot .a4 {font-size:16px;line-height:31px; margin-top:20px}
+
+.footer {padding:30px 0 }
+.footer .f1 {width:280px;}
+.footer .f2 {border:0;float:right;width:400px;padding:0}
+.footer .f2 .mright {width:110px;}
+.footer .f2 .mright img {width:110px}
+.footer .f3 { display:none;}
+.footer .link {margin-top:20px}
+.footer .copy { text-align:center;margin-top:20px}
+.inda8 {font-size:20px;margin:30px 0 -20px 0;}
+.wrap2 {padding:0 3%}
+
+.cshow { padding:30px;margin-bottom:-30px}
+.cshow .mleft .t {font-size:20px; line-height:30px;margin:0 0 5px 0}
+.news {margin-top:-40px}
+.news li .cons {margin:0 0 0 340px}
+
+.page_wrap {padding:30px 0;}
+.pager a,.pager span.current,.pager span.disabled{width:20px; height:20px; line-height:20px;}
+.newsshowcate {margin-top:-25px}
+.newsprevnext .cons {margin:50px 0 10px 0;}
+.contact {padding:20px 0 30px 0}
+.contact .mleft {font-size:25px; line-height:35px;letter-spacing:1px}
+.contact .mright {font-size:14px; line-height:25px;}
+.contact .mright a {font-size:14px;}
+.contact .mright h1,.contact .mright h2,.contact .mright h3,.contact .mright h4,.contact .mright h5 {font-size:20px; line-height:30px}
+.cooperation1 {padding:30px 0}
+.cooperation2 { height:700px; background-size:cover;}
+.cooperation3 li {padding:30px 0;}
+.cooperation3 li .title {font-size:20px;  line-height:30px;margin:5px 0 20px 0}
+.cooperation3 li .content h1,.cooperation3 li .content h2,.cooperation3 li .content h3,.cooperation3 li .content h4,.cooperation3 li .content h5 {font-size:16px; line-height:26px;margin:0 0 10px 0}
+
+.cooperation3 li .content table.tb3 {margin:0 0 0 -3%;width:106%}
+.cooperation3 li .content table.tb4 {margin:0 0 0 -3%;width:106%}
+.about1 {padding:30px 0}
+.about1 .mleft {font-size:30px; line-height:40px;width:15%}
+.about1 .mright {width:80%}
+.about1 .mright .cons2 {margin:30px 0}
+.about1 .cons3 td h1,.about1 .cons3 td h2,.about1 .cons3 td h3,.about1 .cons3 td h4,.about1 .cons3 td h5 {font-size:20px; line-height:30px;margin:0 0 20px 0}
+
+.about3 {padding:30px 0 10px 0}
+.about3 .cons2 {font-size:16px; line-height:26px;margin:0 0 20px 0}
+.about3 li .cons .title {font-size:16px; line-height:26px;margin:0}
+.about3 li .cons .content {font-size:12px; line-height:20px;}
+.about4 { font-size:14px; line-height:24px;padding:30px 0}
+.about4 .mleft {left:3%}
+.about4 .mleft h1,.about4 .mleft h2,.about4 .mleft h3,.about4 .mleft h4,.about4 .mleft h5 {font-size:16px; line-height:36px;}
+.about4 .mright {margin-right:-20%}
+
+.about5 {padding:30px 0;}
+.about5 .subject {font-size:20px; line-height:30px;margin:10px 0}
+.about5 .content h1,.about5 .content h2,.about5 .content h3,.about5 .content h4,.about5 .content h5 {font-size:16px; line-height:26px;margin:10px 0}
+
+.about6 {padding:30px 0}
+.about6 .content h1,.about6 .content h2,.about6 .content h3,.about6 .content h4,.about6 .content h5 {font-size:18px; line-height:28px;margin:10px 0;}
+.about6 td .more {font-size:16px;}
+.bx-wrapper .bx-pager { bottom:17px;}
+.bx-wrapper .bx-pager.bx-default-pager a {  width: 8px;  height:8px;  margin: 0 8px;}
+.bxslider .cons {padding:5px 0}
+
+.indabout {padding:30px 0 30px 0;margin-top:-60px}
+.indabout .mleft .title {font-size:40px; line-height:60px;}
+.indabout .mleft .content {font-size:16px;line-height:26px;margin:50px 0 0 0}
+.indabout .mright .t {font-size:20px;line-height:35px;margin-top:10px}
+.indabout .mright .c {font-size:14px;line-height:25px;margin:20px 0 0px 0}
+#indnum ul li .num {margin:0 0 -10px 0}
+
+.indcasemenu {padding:0 0 15px 0;margin:0 0 30px 0;margin-top:-30px;}
+.indcasemenu .cons {width:100%;font-size:18px; line-height:33px; vertical-align:top; display:block}
+.tabPanel ul{ margin-left:0;width:100%;margin-top:20px;mline-height:35px; vertical-align:top; display:block}
+.tabPanel ul li {margin:0 25px 0 0}
+.panes{padding-bottom:30px}
+.indservice {margin-top:-40px;padding:30px 0 0 0}
+.indservice .subject {font-size:20px; line-height:30px;}
+.indservice .subject2 {font-size:16px; line-height:26px;margin-top:5px}
+.indservice ul {width:104%;margin-left:-2%}
+.indservice li {width:29.3333%;margin:30px 2% 0 2%;font-size:14px;line-height:25px;padding:0 0 0 80px}
+.indservice li i {width:60px;}
+.indservice li i img {width:100%}
+.indservice li .title {font-size:18px;line-height:28px;}
+.indservice li .line1 {width:20px;margin:15px 0}
+.indservice li .line2 {width:20px;margin:15px 0}
+.indservice li .more {margin-top:-5px}
+.indyuan { margin-top:40px;padding:40px 0}
+.indyuan .t {font-size:25px; line-height:35px; letter-spacing:1px;}
+.indyuan .c {font-size:16px; line-height:26px; letter-spacing:1px;margin:5px 0 20px 0}
+.indyuan li .title {border-width:1px;font-size:22px; line-height:32px;padding:10px 0;max-width:160px}
+.indyuan li .content {font-size:14px; line-height:24px;margin-top:15px;}
+.indyuan li:hover {top:0}
+.indyuan ul {margin-left:-3%;width:106%;}
+.indyuan li {width:27.3333%;margin:30px 3% 0 3%;}
+.indpics .c { font-size:18px; letter-spacing:1px; line-height:33px;margin:30px 0}
+#slider2 .bx-wrapper .bx-pager.bx-default-pager a { width: 30px;  margin: 0 5px;}
+#slider2 .bx-wrapper .bx-pager {  bottom:15px;}
+.indnews {padding:30px 0;margin-top:-30px}
+.indnews .mleft {width:48%;}
+.indnews .mleft .p { height:194px;}
+.indnews .mleft .t { margin:15px 0 10px 0}
+.indnews .mleft .t a {font-size:16px;}
+.indnews .mright {width:48%}
+.indnews .mright li p {padding:0 80px 0 0}
+.indnews .en {font-size:20px; letter-spacing:1px}
+.indnews .cn {font-size:16px;letter-spacing:1px;margin:3px 0 20px 0}
+.indnews .casemore a {margin:20px 0 0 0}
+.about1 .mright .cons2 ul li,#indnum ul li {margin:0}
+.about1 .mright .cons2 ul li,#indnum ul li {width:50%;margin:20px 0; text-align:center}
+#indnum ul li { text-align:left;margin:30px 0 0 0}
+
+.indmessage .mleft {width:48%;}
+.indmessage .mright2 {width:100%;}
+}
+
+@media (max-width:1023px) {
+.newscate {padding:32px 0 0 0;}
+.cooperation2 { height:550px;}
+.topbanner {margin-top:45px}
+}
+
+@media (max-width:769px) {
+.inda1 {font-size:18px;margin-top:20px;padding:10px 10% 0 10%}
+.inda1 img {max-width:100%;}
+.inda2 {font-size:20px;margin:15px 0 15px 0}
+.inda3 {font-size:12px; line-height:18px}
+.inda4 {font-size:16px;margin:20px 0 10px 0}
+.inda5 {font-size:16px}
+.inda6 {margin-top:20px}
+.inda6 a {font-size:14px;}
+.inaaline {margin:20px 0}
+.newproject {margin-top:20px}
+.inda7 {font-size:16px;}
+
+.newproject li div.clist h1,#case .li div.clist h1,.pane .li div.clist h1 {font-size:14px;margin-top:12%}
+.newproject li div.clist h2,#case .li div.clist h2,.pane .li div.clist h2 {font-size:12px;padding:0 17px;margin-top:8px}
+.newproject li div.clist i,#case .li div.clist i,.pane .li div.clist i { width:16px; height:16px; background-size:100%; margin-left:-8px;bottom:10px;}
+.newproject li.a5 div.clist h1,#case .li.a5 div.clist h1,.pane .li.a5 div.clist h1 {margin-top:24%}
+.newproject li h4,#case .li h4,.pane .li h4 { font-size:12px}
+
+.indcustomer {height:auto; text-align:center;padding-bottom:0;background-size:0; background-color:#e60045;padding-top:20px}
+.indcustomer .mleft .a1 {font-size:22px;}
+.indcustomer .mleft .a2 {font-size:23px;margin-top:5px}
+.indcustomer .mleft .line {width:60px;margin:20px auto 20px auto}
+.indcustomer .mleft .a3 {font-size:13px; line-height:18px}
+.indcustomer .mleft {width:100%;float:none;padding-bottom:20px;}
+.indcustomer .mright { display:none}
+
+
+.indadv {padding:20px 0 0px 0}
+.indadv dl {width:46%;margin:2%;margin-bottom:20px}
+.indadv dl.last {margin:2%}
+.indadv dt {font-size:16px;height:35px; line-height:35px}
+.indadv dd {font-size:12px; line-height:18px;}
+.indadv dd h1 {font-size:14px}
+
+
+
+.profile_title {font-size:15px; padding:20px 0}
+.profile_cons {font-size:12px; line-height:18px}
+.pd50 {padding:20px 0; line-height:18px}
+
+.brandconcept_pic .title {font-size:20px;}
+.brandconcept_pic .cons {font-size:16px; line-height:25px}
+.brandconcept_pic .line {margin:20px auto}
+
+.team_about li .lists h1 {font-size:16px;}
+.team_about li {width:50%}
+.team_about li .lists h2 { bottom:20px;}
+.team_about li .lists h2 p {font-size:12px;padding-top:5px;}
+.owl-carousel {margin:20px 0 70px 0}
+
+.viewpoint {padding:20px 0;margin-top:-40px}
+.viewpoint ul {padding-bottom:20px}
+.viewpoint li {width:39.6666%;padding:20px 5% 0px 5%; min-height:auto;}
+.viewpoint li .title {font-size:16px;padding-bottom:10px}
+.viewpoint li .cons {font-size:12px;line-height:18px;margin-top:15px;}
+
+.list2 .container{padding-top:20px;}
+.list2 .left .redTitle,.list .left .redTitle{font-size:15px; line-height:18px}
+.list2 .left .title,.list .left .title{line-height:25px;font-size:16px;margin-top:-4px}
+.list2 .left .info{font-size:12px;line-height:18px;margin-top:15px}
+.list2 .left .tel400 {font-size:12px;margin-top:20px;}
+.list2 .left .tel400 div.font {font-size:16px;}
+.list2 .right .title{font-size:16px;margin-top:20px}
+.list2 .right .title2 {font-size:12px; line-height:18px;}
+.list2 .right .line .inputText{font-size:12px;}
+.list2 .right .line .textArea{font-size:12px;}
+.list2 .right .line .inputBtn{font-size:14px;}
+
+.indcasesubject {padding:20px 0;}
+.indcasecate {margin-bottom:-12px}
+.indcasecate li a,.tabPanel ul li {font-size:14px;}
+
+
+.newstitle {font-size:16px;margin-top:20px}
+.newsaddtime {font-size:12px; margin-bottom:0px;margin-top:5px;line-height:18px}
+.newscons {font-size:12px; line-height:18px;margin-top:30px}
+
+
+.mar-30 {margin-top:-60px}
+.adv_pic {margin:20px 0;padding-bottom:10px;padding-top:20px}
+.adv_pic ul {margin:20px 0 0 0}
+.adv_pic li {float:none;width:100%;margin-right:0;margin-bottom:20px}
+.adv_pic li .title {font-size:16px;}
+.adv_pic li .cons {font-size:12px; line-height:18px;}
+.adv_pic li .line {margin-bottom:10px}
+.adv_pic li .title2 {font-size:12px;padding:5px 2%;width:96%;margin-top:10px}
+.adv_cus .subject span {font-size:35px;}
+.adv_cus .subject font {font-size:25px;}
+.adv_cus .subject {font-size:20px;}
+.adv_cus ul {margin:20px 0}
+.adv_cus ul li {width:15.5333%;margin:0 1% 1% 0; height:auto;padding-top:0px;}
+.adv_cus ul li p {height:auto;padding:5px 0 0 0;width:100%}
+.adv_cus .more {padding-bottom:20px}
+
+.adv_cus .subject span {font-size:20px;}
+.adv_cus .subject font {font-size:25px;}
+.adv_cus .subject {font-size:16px;}
+.adv_cus .more a {font-size:14px;width:150px; height:30px; line-height:30px}
+
+.adv_cus ul li {width:30.6333%;margin:1%;}
+.adv_cus ul li.last {margin:1%}
+
+.mainNav{padding:20px 0 20px 0}
+.mainNav .child{font-size:14px;width:158px; height:35px; line-height:35px;}
+.mainNav .child.childList{background-position:128px center}
+.casemore a {margin:20px auto;}
+.mainNav .child.childList ul{top:36px}
+.mainNav .child.childList ul li{width:143px;  height:35px; line-height:35px;}
+
+.casetitle {font-size:16px;margin-bottom:15px}
+.caseinaaline {margin-top:0px}
+.caserela {margin-bottom:20px}
+
+.profile_num {margin-top:-30px}
+.profile_num li {width:50%;margin-top:20px}
+
+
+.fixleft {bottom:40px}
+.footbottom,.footbottom .f1,.footbottom .f2,.footbottom .f3 { height:40px;}
+
+.pane .li div.clist h1 {font-size:14px;margin-top:10px}
+.pane .li div.clist h2 {font-size:12px;margin-top:5px}
+.pane .li div.clist i { display:none;}
+
+.inda7_3 {margin:-10px 0 0px 0; line-height:30px}
+.inda7_t {padding:20px 0 50px 0}
+.indad3 {margin:-60px 0 -20px 0}
+.inaaline2 {margin-top:-70px}
+.viewpoint {margin-top:30px}
+.casesum {margin:20px 0}
+
+.newscurrent {margin:-10px 0 35px 0;font-size:12px;}
+.newscurrent a {font-size:12px}
+.prevnextnews a,.prevnextnews span {width:100%;margin-top:-6px; text-align:left;padding:0 3%;font-size:12px; height:30px; line-height:30px}
+
+.tjnews {padding:0px 0 20px 0}
+.tjnews .subject {font-size:16px}
+.tjnews li {float:none;width:100%; height:25px; line-height:25px; overflow:hidden; }
+.tjnews li.no {float:left;width:100%;}
+
+.bannerin_out {height:300px}
+.zzsc,.zzsc .link{height:300px;}
+.particulars-nav-fixed.active2 .header {top:300px}
+.outs_pic {height:500px}
+.footer .f1 {width:100%; text-align:center;float:none;}
+.footer .f2 {float:none;width:100%;margin-top:20px}
+.inda8 {margin:30px 0 20px 0;}
+.newscate {margin-bottom:20px}
+
+.news {margin-top:-20px}
+.news li {padding:30px 0; height:133px}
+.news li .pic {top:30px;width:200px; height:133px}
+.news li .cons {margin:0 0 0 220px}
+.news li .cons .addtime {font-size:13px;margin-top:-4px;}
+.news li .cons .title { height:20px; line-height:20px;margin:10px 0 16px 0}
+.news li .cons .title a {font-size:16px;}
+.news li .cons .content {font-size:14px; line-height:25px;height:75px;}
+.news li .cons .casemore { display:none;}
+.cooperation2 { height:450px;}
+
+.about4 .mleft { position:relative; height:auto; text-align:center}
+.about4 .mright { text-align:center;margin-right:auto;margin-top:30px}
+.bxslider li a { height:350px;}
+
+.indabout {margin-top:-20px}
+.indabout .mleft {width:100%}
+.indabout .mright {margin-top:20px;width:100%;}
+.indabout .mleft .content {margin:20px 0 0 0}
+.indcasemenu {margin-top:10px;}
+.indservice {margin-top:-20px;}
+
+.indservice li {width:46%;}
+.indservice ul .clear2 { display:block;clear:both;}
+.indservice ul .clear3 { display:none;}
+}
+
+@media (max-width:583px) {
+.fixleft {bottom:30px}
+.footbottom,.footbottom .f1,.footbottom .f2,.footbottom .f3 { height:30px;}
+.indcasecate {height:60px; line-height:30px; background:url(../images/1.jpg) no-repeat;padding-bottom:10px}
+.indcasecate li{margin:0 3%; line-height:30px; height:30px;}
+.indcasecate li a{font-size:14px;}
+.indcasemore a {font-size:13px;}
+.indcasemore {padding:20px 0} 
+.tabPanel .hit{height:30px; line-height:30px;}
+.lineno { display:none;}
+.bannerin_out {height:250px}
+.zzsc,.zzsc .link{height:250px;}
+.particulars-nav-fixed.active2 .header {top:250px}
+.outs_pic {height:400px}
+
+.outs_contact {padding:20px 0}
+.outs_contact .mleft {float:none; text-align:center;width:100%}
+.outs_contact .mleft h1 { display:block; margin:0 auto}
+.outs_contact .mleft h2 { display:block;margin:0 auto}
+.outs_contact .mright {float:none;width:100%;}
+
+.outs_bao ul.list4 li { width:100%;margin:5px 0;}
+
+.footer .f2 .mleft {width:100%; text-align:center;float:none;}
+.footer .f2 .mright {width:110px;float:none;margin:20px auto 0 auto}
+.newproject li {width:100%}
+
+.cshow .mleft {width:100%;}
+.cshow .mright {width:100%;margin-top:30px}
+
+.contact .mleft {width:100%;}
+.contact .mright {width:100%;margin-top:30px}
+.cooperation2 { height:350px;}
+.cooperation3 li .content table.tb4_2 {width:100%;margin-left:0}
+.cooperation3 li .content table.tb4_2 td {width:100%;padding:0; display:block; text-align:center}
+.cooperation3 li .content table.tb4_2 .tr2 td {margin-top:25px}
+
+.cooperation3 li .content table.tb5 {width:100%;margin-left:0;margin-top:-20px}
+.cooperation3 li .content table.tb5 td {padding:0;width:100%; display:block; text-align:center;margin:20px 0}
+
+.cooperation3 li .content table.tb3 {margin:-20px 0 0 0;width:100%}
+.cooperation3 li .content table.tb3 td,.cooperation3 li .content table.tb4 td{width:100%;padding:0; display:block; text-align:center;margin:20px 0}
+.cooperation3 li .content table.tb4 {margin:-20px 0 0 0;width:100%}
+.about1 .mleft {width:100%;margin-top:-30px}
+.about1 .mright {width:100%;margin-top:20px}
+.about1 .mright .cons2 .clear2 { display:block; clear:both}
+.about1 .mright .cons2 ul {margin-top:-30px}
+.about1 .mright .cons2 ul li { width:46%;margin-top:30px}
+.about3 li {width:50%}
+.about5 { text-align:center;width:100%;margin:0}
+.about5 .content td { display:block; text-align:center;width:100%;padding:0}
+.bxslider li a { height:250px;}
+.bxslider .cons { display:none;}
+.newproject li,#case .li,.pane .li {width:50%}
+.indyuan ul {margin-left:0%;width:100%;}
+.indyuan li {width:100%;margin:30px 0 0 0;}
+
+.indnews .mleft {width:100%;}
+.indnews .mright {width:100%;margin-top:30px}
+.indnews .mleft .c { height:auto}
+.indnews .mleft .t { height:auto; line-height:25px}
+.indnews .mright ul {margin-top:-10px}
+
+.about1 .mright .cons2 ul li .num,#indnum ul li .num {font-size:40px;}
+.about1 .mright .cons2 ul li .num h3,#indnum ul li .num h3{font-size:40px;}
+.about1 .mright .cons2 ul li .content,#indnum ul li .content {line-height:22px;font-size:13px}
+
+.indmessage .mleft {width:100%}
+.indmessage .mright2 {width:100%;margin-top:20px}
+.indservice ul {width:100%;margin-left:0}
+.indservice li {width:100%;}
+}
+
+@media (max-width:480px){
+.fixleft {bottom:20px}
+.footbottom,.footbottom .f1,.footbottom .f2,.footbottom .f3 { height:20px;}
+.bannerin_out {height:180px}
+.zzsc,.zzsc .link{height:180px;}
+.particulars-nav-fixed.active2 .header {top:180px}
+.outs_pic {height:300px}
+.newscate li {width:49%}
+
+.news li { height:auto}
+.news li .pic { position:relative;top:0;width:100%; height:280px}
+.news li .cons {margin:30px 0 0 0}
+.news li .cons .title { height:auto; line-height:26px}
+.news li .cons .content { height:auto}
+.cooperation2 { height:300px;}
+}
+
+@media (max-width:400px){
+.news li .pic { height:250px}
+.cooperation2 { height:250px;}
+.bxslider li a { height:200px;}
+}
+
+@media (max-width:321px){
+.viewpoint li {width:39.5666%;}
+
+.mainNav .child{width:148px;}
+.mainNav .child.childList{background-position:118px center}
+.mainNav .child.childList ul li{width:133px;}
+}

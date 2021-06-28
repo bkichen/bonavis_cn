@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <title>金融_科技_互联网行业_品牌策划-海右博纳设计案例在线欣赏</title>
+    <meta name="keywords" content="金融品牌策划，科技品牌策划，互联网品牌策划">
+    <meta name="description" content="东莞海右博纳品牌设计公司，以东莞品牌策划、品牌VI设计、品牌整合推广为业务核心，为金融、科技、互联网等行业提供360的品牌整合服务，是东莞品牌营销策划设计的行业领导者，欢迎来电咨询，400-801-7658"> 
+    
+    <link rel="stylesheet" type="text/css" href="../css/base.css">
+    <link href="../css/main.css" rel="stylesheet" type="text/css">
+    <link href="../css/media.css" rel="stylesheet" type="text/css">
+	<script src="../js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../js/common.js"></script>
+	<script>
+	var wjb51=screen.width;
+    $(function(){
+         jsonajax();
+     });
+     
+     //这里就要进行计算滚动条当前所在的位置了。如果滚动条离最底部还有100px的时候就要进行调用ajax加载数据
+     $(window).scroll(function(){    
+         //此方法是在滚动条滚动时发生的函数
+         // 当滚动到最底部以上100像素时，加载新内容
+         var $doc_height,$s_top,$now_height;
+         $doc_height = $(document).height();        //这里是document的整个高度
+         $s_top = $(this).scrollTop();            //当前滚动条离最顶上多少高度
+         $now_height = $(this).height();            //这里的this 也是就是window对象
+		 if (wjb51>768){
+			 if(($doc_height - $s_top - $now_height) < 500) jsonajax();    
+		 }else{
+			 if(($doc_height - $s_top - $now_height) < 1500) jsonajax();    
+		 }
+         
+     });     
+     
+     //做一个ajax方法来请求data.php不断的获取数据
+     var $num = 1;
+     function jsonajax(){
+         
+         $.ajax({
+             url:'../inc/all.php?zyfl=218',
+             type:'POST',
+             data:"num="+$num++,
+             dataType:'json',
+             success:function(json){
+                 if(typeof json == 'object'){
+                     var neirou,$row,iheight,temp_h;
+                     for(var i=0,l=json.length;i<l;i++){
+                         neirou = json[i];    //当前层数据
+                         //找了高度最少的列做添加新内容
+                         iheight  =  -1;
+                         $("#case li").each(function(){
+                             //得到当前li的高度
+                             temp_h = Number($(this).height());
+                             if(iheight == -1 || iheight >temp_h){
+                                 iheight = temp_h;
+                                 $row = $(this); //此时$row是li对象了
+                             }
+                         });
+                         $item = $('<div class="li"><a href="../case/'+neirou.id+'.html"><div class="clist"><h1>'+neirou.title+'</h1><h2>'+neirou.title2+'</h2><i></i></div><img src="../uploadfile/'+neirou.pic+'"></a></div>').hide();
+                         $row.append($item);
+                         $item.fadeIn();
+                     }
+                 }
+             }
+         });
+     }
+    </script>
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->  
+    <script type="text/javascript" src="https://hnci.net.cn/js/kb.js"></script></head>
+<body>
+
+<div id="navFixed" class="particulars-nav-fixed"><div class="header"><a href="../index.html" class="logo1" title="东莞海右博纳品牌策划与设计"><p>品牌全案策略与设计</p></a><img class="navBtn" src="../images/navBtn.png" title="点我!点我!"><div class=""><ul class="nav"><li><a href="../index.html">首页</a></li><li class="on"><a href="index.html">案例</a></li><li><a href="../cooperation/index.html">全案服务</a></li><li><a href="../about/index.html">关于海右博纳</a></li><li><a href="../news/index.html">新闻分享</a></li><li><a href="../contact/index.html">联系海右博纳</a></li></ul></div></div><div class="stance"></div></div>
+
+
+<div class="topheight"></div>
+<div class="bannerin" style=" background-image:url(../uploadfile/1473850127.jpg);"><div class="wrap"><div class="cons">SIVIBRAND<br>
+ALL CREATING IS A FRESH START<br></div><div class="title">每一次创作都是新的开始</div></div></div><div class="wrap"><div class="inda7 inda7_3 casesum"><div class="cstitle">我们始终坚信， 有效比好看更重要。</div><div class="cscons">唯有帮助客户成功， 才叫成功的作品。</div></div></div><ul class="indcasecate"><li><a href="223_1.html">餐饮连锁</a></li><li><a href="216_1.html">食品快消</a></li><li class="check"><a href="">科技数码</a></li><li><a href="222_1.html">健康教育</a></li><li><a href="281_1.html">服饰美妆</a></li><li><a href="217_1.html">地产金融建筑</a></li><li><a href="258_1.html">工业机械制造</a></li><li><a href="268_1.html">交通能源环保</a></li><li><a href="269_1.html">超级IP</a></li></ul><div class="inaaline lineno"></div><ul class="newproject"><li><a href="1255.html"><div class="clist"><h1>迈宝斯贼多品牌全案策划</h1><h2>品牌策划 品牌设计 品牌营销  IP设计 品牌策略与品牌营销</h2><i></i></div><div class="pic" style=" background-image:url(../uploadfile/1608951012.JPG)"><img src="../images/b.png"></div></a></li><li><a href="1235.html"><div class="clist"><h1>好卫手品牌全案策划</h1><h2>品牌策划、视觉设计、空间设计、终端设计</h2><i></i></div><div class="pic" style=" background-image:url(../uploadfile/1605149308.gif)"><img src="../images/b.png"></div></a></li><li><a href="942.html"><div class="clist"><h1>常禾集团品牌全案策划</h1><h2>品牌策划  品牌设计 终端设计</h2><i></i></div><div class="pic" style=" background-image:url(../uploadfile/1561445167.jpg)"><img src="../images/b.png"></div></a></li><div class="clear"></div></ul>
+<ul id="case">
+    <li></li>
+    <div class="clear"></div>
+</ul>
+<div class="casemore"><a href="#">查看更多案例<i></i></a></div>
+
+
+<div class="foot"><div class="wrap"><div class="a1">欢迎和我们一起探索品牌的世界~<br>创造和重新定义品牌</div><div class="a4">从优秀到卓越~<br>
+ 迅速提升品牌与销量&nbsp;<br>
+ 400-026-7367<br></div></div></div>
+<div class="footer"><div class="wrap"><div class="f f1"><p>
+	<img src="../uploadfile/image/20190429/20190429165256_96956.png" alt=""> 
+</p>
+<div class="c">
+	<p>
+		济南海右博纳品牌营销咨询有限公司
+	</p>
+       <span style="font-size:12px;">Copyright 2001-2019 All Rights Reserved Sivibrand.</span> 
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?ac5a46cdcaf1b7401aa1c64114d5e7bc";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script></div><div class="f f2"><div class="mleft"><h1>联系：</h1>地址：东莞市南城区胜和路华凯大厦8楼<br>
+服务热线：400-026-7367<br>
+品牌顾问：186 8863 8587（王伟总监）<br>
+Q Q：330529921&nbsp;<br></div><div class="mright"><img src="../uploadfile/1575941993_2.jpg"><p>王伟品牌顾问微信</p></div><div class="clear"></div></div><div class="f f3"><h1>行业关键词：</h1>品牌策划，品牌设计，vi设计，品牌全案策划设计，品牌营销策划，品牌营销设计，品牌策划公司，品牌设计公司，品牌包装设计，品牌ip形象设计，品牌LOGO设计，吉祥物设计，专卖店设计，SI店面设计，品牌战略咨询</div><div class="clear"></div><div class="copy">版权所有 &copy; 未经济南海右博纳品牌营销咨询有限公司书面许可，不得以任何方式翻印、拷贝、仿制或转载任何部分。<a href="javascript:;" target="_blank">鲁ICP备11001817号-9</a></div></div></div>
+<div class="fixed"><div class="fixedTop"><p></p><img class="fixedTopPointer" src="../images/pointer.png"></div><a href="javascript:;" target="_blank"><div class="child fixedCall"><img src="../images/call.png"><p>免费电话</p></div></a><a href="javascript:;" target="_blank"><div class="child fixedQQ" id="fixedQQ"><img src="../images/QQ.png"><p>QQ客服</p></div></a><div class="fixedCode"><img src="../images/code.png"></div></div><div class="fixedCodeInfo"><img class="fixedCode" src="../uploadfile/1481073986.jpg"><img class="fixedCode2" src="../uploadfile/1575941993_2.jpg"></div><div class="fixmob"><a href="javascript:;" target="_blank" class="qq"></a><a href="tel://400-801-7658" class="tel"></a></div>
+
+<script src="../js/jquery.nicescroll.min.js"></script>
+<script src="../js/base.js"></script>
+<script src="../js/jquery.nicescroll.min.js"></script>
+<script type="text/javascript" src="../js/footcommon.js"></script>
+
+</body>
+</html>
